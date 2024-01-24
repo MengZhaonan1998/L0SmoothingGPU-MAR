@@ -17,3 +17,5 @@ CBCT (Cone-Beam Computed Tomography) reconstruction is a process that creates to
 Metal artifact is one of the artifacts commonly encountered in clinical CT imaging and may obscure pathology. There have been various methods proposed to ruduce metal artifacts in CT imaging. This project is exactly an another try on MAR (Metal Artifact Reduction). 
 ### How does L0SmoothingGPU work on MAR?
 L0SmoothingGPU takes a single/multi-slice raw data of a CBCT image as a input and outputs the raw data after reducing metal artifacts.  
+
+<img src='TestData/test_recon_768_768.jpg' width='350'>   
